@@ -45,10 +45,10 @@ This project focuses on optimizing maintenance costs for wind energy production 
    - Business insights for maintenance optimization  
 
 ## **Results & Insights**
-**Early failure prediction** helps prevent costly repairs.  
-**Environmental factors** significantly affect machinery performance.  
-**Machine learning models** achieve high accuracy in failure detection.  
-**Optimal maintenance scheduling** can reduce costs by up to **30%**.  
+1.**Early failure prediction** helps prevent costly repairs.  
+2.**Environmental factors** significantly affect machinery performance.  
+3.**Machine learning models** achieve high accuracy in failure detection.  
+4.**Optimal maintenance scheduling** can reduce costs by up to **30%**.  
   
 
 
